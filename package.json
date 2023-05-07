@@ -1,0 +1,36 @@
+{
+  "name": "bot-setuper",
+  "version": "0.0.1",
+  "description": "This package is here to help all of you lovely discord devs. This package is creating the standart bot.js, commands.js and .env file for your next discord bot project.",
+  "main": "index.js",
+  "scripts": {
+    "bot": "node index.js"
+  },
+  "keywords": [
+    "Discord",
+    "Bot",
+    "Setup"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.0.3",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "ltm-utilities": "^0.0.8",
+    "node-fetch": "^3.3.1"
+  },
+  "funding": {
+    "type": "BuyMeACoffee",
+    "url": "https://www.buymeacoffee.com/leontm"
+  },
+  "repository": {
+    "url": "git+https://github.com/leontm-dev/bot-setuper.git",
+    "type": "git"
+  },
+  "bugs": {
+    "url": "https://github.com/leontm-dev/bot-setuper/issues"
+  },
+  "homepage": "https://github.com/leontm-dev/bot-setuper#readme",
+  "author": "LeonTM"
+}
