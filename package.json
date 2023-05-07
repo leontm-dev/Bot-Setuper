@@ -1,6 +1,6 @@
 {
   "name": "bot-setuper",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This package is here to help all of you lovely discord devs. This package is creating the standart bot.js, commands.js and .env file for your next discord bot project.",
   "main": "index.js",
   "scripts": {
